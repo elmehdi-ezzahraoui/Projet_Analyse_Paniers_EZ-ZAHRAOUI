@@ -1,0 +1,29 @@
+# Environnements Python
+.venv/
+.venv-*/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers de configuration locale et secrets
+.env
+.env.*
+!.env.example
+
+# Donnees sources (notamment les fichiers volumineux du projet)
+/data/*.csv
+/data/*.xlsx
+/data/*.xls
+
+# Fichiers systeme et editeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
