@@ -67,4 +67,4 @@ pip install pandas numpy matplotlib seaborn apyori mlxtend
 - Les règles filtrées (avec un **Lift > 1** et une **confiance élevée**) ont permis de proposer des stratégies de recommandations comme l'affichage "Les clients qui ont acheté ceci ont également acheté cela" sur la plateforme e-commerce.
 
 ## ✍️ Auteur
-- **[Votre Nom / Prénom]** - *Développement et Analyse* 
+- EZ-ZAHRAOUI El-Mehdi      5 DDSI G:2
